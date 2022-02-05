@@ -3,10 +3,12 @@
 /* This is a
 multi-line comment */
 
-var myName;
-a=7;
+// var myName;
+// a=7;
 
-var b;
+// var b;
 
-b=7;
-b=a 
+// b=7;
+// b=a 
+
+var a=9;
