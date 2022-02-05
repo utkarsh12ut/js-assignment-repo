@@ -170,5 +170,10 @@ const myArray = ["hi",2];
 console.log(myArray);
 
 
-const myArray2 = [[23,45],[77,88]];
-console.log(myArray2);
+// const myArray2 = [[23,45],[77,88]];
+// console.log(myArray2);
+
+
+const myArray3 = [50, 60, 70];
+const myData= myArray3[0];
+console.log(myData);
