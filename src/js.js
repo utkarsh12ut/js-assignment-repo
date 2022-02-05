@@ -196,3 +196,11 @@ const myArray5 = [
   const myData2 = myArray5[2][1];
 
   console.log(myData2);
+
+
+  const myArrayy = [["John", 23], ["cat", 2]];
+
+// Only change code below this line
+ myArrayy.push(["dog", 3])
+
+console.log(myArrayy);
