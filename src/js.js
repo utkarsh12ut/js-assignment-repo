@@ -83,10 +83,11 @@ console.log(quotient)var a=9;
 //  b -=  15;
 //  c -=  1;
 
-let a = 5;
-let b = 12;
-let c = 4.6;
+let a = 48;
+let b = 108;
+let c = 33;
 
-a *=  5;
-b *= 3 ;
-c *=  10;
+
+a /= 12;
+b /=  4;
+c /=  11;
