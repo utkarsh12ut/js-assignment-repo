@@ -12,3 +12,6 @@ multi-line comment */
 // b=a 
 
 var a=9;
+
+var myFirstName= "utkarsh";
+var myLastName="pandey";
