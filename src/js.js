@@ -114,3 +114,12 @@ c /=  11;
 const myName = "utkarsh";
 const myStr = "my name is "+myName+" and I am well!";
 console.log(myStr);
+
+
+
+let lastNameLength = 0;
+const lastName = "Lovelace";
+
+
+lastNameLength = lastName.length;
+console.log(lastNameLength);
