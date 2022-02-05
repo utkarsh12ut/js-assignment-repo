@@ -11,21 +11,21 @@ multi-line comment */
 // b=7;
 // b=a 
 
-var a=9;
+// var a=9;
 
 var myFirstName= "utkarsh";
 var myLastName="pandey";
 
 
 
-var a=5;
-var b=10;
-var c="I am a";
+// var a=5;
+// var b=10;
+// var c="I am a";
 
 
-a = a + 1;
-b = b + 5;
-c = c + " String!";
+// a = a + 1;
+// b = b + 5;
+// c = c + " String!";
 
 
 
@@ -55,7 +55,7 @@ const difference = 45 - 33;
 console.log(difference);
 
 const quotient = 66 / 33;
-console.log(quotient)
+console.log(quotient)var a=9;
 
 
 
@@ -73,3 +73,13 @@ console.log(quotient)
  const quotient = 4.4 / 2.0;
 
  const remainder = 11%3;
+
+
+ let a = 3;
+let b = 17;
+let c = 12;
+
+
+a +=12;
+b += 9;
+c += 7;
