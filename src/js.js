@@ -177,3 +177,10 @@ console.log(myArray);
 const myArray3 = [50, 60, 70];
 const myData= myArray3[0];
 console.log(myData);
+
+const myArray4 = [18, 64, 99];
+
+// Only change code below this line
+myArray4[0]=45;
+
+console.log(myArray4);
