@@ -64,3 +64,5 @@ console.log(quotient)
 
 
  myVar --;
+
+ const myDecimal = 5.7;
