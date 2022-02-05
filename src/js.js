@@ -56,3 +56,7 @@ console.log(difference);
 
 const quotient = 66 / 33;
 console.log(quotient)
+
+let myVar = 87;
+
+ myVar ++;
