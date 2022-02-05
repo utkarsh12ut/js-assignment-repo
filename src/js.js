@@ -107,7 +107,10 @@ c /=  11;
 // console.log(myStr)
 
 
-const someAdjective = "fun";
-let myStr = "Learning to code is ";
-myStr+=someAdjective;
+// const someAdjective = "fun";
+// let myStr = "Learning to code is ";
+// myStr+=someAdjective;
+
+const myName = "utkarsh";
+const myStr = "my name is "+myName+" and I am well!";
 console.log(myStr);
