@@ -304,15 +304,15 @@ var outerWear= "sweater";
 myOutfit();
 
 
-let sum = 0;
+let sum5 = 0;
 
 function addThree() {
-  sum = sum + 3;
+  sum5 = sum5 + 3;
 }
 
 // Only change code below this line
 function addFive() {
-  sum = sum + 5;
+  sum5 = sum5 + 5;
 }
 
 // Only change code above this line
@@ -329,4 +329,21 @@ function processArg(num) {
 
 // Only change code below this line
 processed = processArg(7);
+
+function nextInLine(arr, item) {
+    // Only change code below this line
+     testArr.push(item);
+    testArr.shift(arr[0]);
+    return arr[0] || item;
+    return item;
+    // Only change code above this line
+  }
+  
+  // Setup
+  const testArr = [1, 2, 3, 4, 5];
+  
+  // Display code
+  console.log("Before: " + JSON.stringify(testArr));
+  console.log(nextInLine(testArr, 6));
+  console.log("After: " + JSON.stringify(testArr));
         
