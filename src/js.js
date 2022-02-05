@@ -4,3 +4,4 @@
 multi-line comment */
 
 var myName;
+a=7;
