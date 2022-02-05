@@ -233,3 +233,16 @@ console.log(myArray9);
 const myList = [["Chocolate Bar", 15],["tofee", 15],["Chocolate Bar", 15],["Chocolate Bar", 15],["Chocolate Bar", 15]];
 
 console.log(myList);
+
+function reusableFunction(){
+    console.log("Hi World");
+  }
+  
+  reusableFunction();
+
+  function functionWithArgs(a,b){
+    console.log(a+ b)
+    
+      }
+    functionWithArgs(1,2);
+    functionWithArgs(7,9);
