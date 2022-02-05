@@ -204,3 +204,10 @@ const myArray5 = [
  myArrayy.push(["dog", 3])
 
 console.log(myArrayy);
+
+const myArray7 = [["John", 23], ["cat", 2]];
+
+// Only change code below this line
+const removedFromMyArray=myArray7.pop()
+
+console.log(myArray7);
