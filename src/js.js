@@ -54,8 +54,9 @@ console.log(sum);
 const difference = 45 - 33;
 console.log(difference);
 
-const quotient = 66 / 33;
-console.log(quotient)var a=9;
+// const quotient = 66 / 33;
+// console.log(quotient);
+var a=9;
 
 
 
@@ -83,7 +84,7 @@ console.log(quotient)var a=9;
 //  b -=  15;
 //  c -=  1;
 
-let a = 48;
+let a2 = 48;
 let b = 108;
 let c = 33;
 
@@ -112,7 +113,10 @@ c /=  11;
 // myStr+=someAdjective;
 
 const myName = "utkarsh";
-const myStr = "my name is "+myName+" and I am well!";
+const myStr = "my name is "+myName+" and I am well!";const lastName = "Lovelace";
+
+// Only change code below this line
+const secondToLastLetterOfLastName = lastName[lastName.length-2]; // Change this line
 console.log(myStr);
 
 /*
@@ -126,22 +130,29 @@ console.log(lastNameLength);
 
 */
 let firstLetterOfLastName = "";
-const lastName = "Lovelace";
+const lastName11 = "Lovelace";
 
 
-firstLetterOfLastName = lastName[0];
+firstLetterOfLastName = lastName11[0];
 console.log(firstLetterOfLastName);
 
-let myStr = "Jello World";
-myStr="Hello World";
+let myStr1 = "Jello World";
+myStr1="Hello World";
 
 
-const lastName = "Lovelace";
+const lastName1 = "Lovelace";
 
 
-const thirdLetterOfLastName = lastName[2]; 
+const thirdLetterOfLastName = lastName1[2]; 
 
 console.log(thirdLetterOfLastName);
 
-const lastLetterOfLastName = lastName[lastName.length-1]; 
+const lastLetterOfLastName = lastName1[lastName1.length-1]; 
 console.log(lastLetterOfLastName);
+
+
+const lastName2 = "Lovelace";
+
+// Only change code below this line
+const secondToLastLetterOfLastName2 = lastName2[lastName2.length-2]; // Change this line
+console.log(secondToLastLetterOfLastName2);
