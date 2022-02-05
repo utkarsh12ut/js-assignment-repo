@@ -246,3 +246,14 @@ function reusableFunction(){
       }
     functionWithArgs(1,2);
     functionWithArgs(7,9);
+
+
+    function minusSeven(num) {
+        return num - 7;
+        }
+        
+        
+        function timesFive(num) {
+        return num * 5;
+        }
+        
