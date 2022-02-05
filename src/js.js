@@ -211,3 +211,13 @@ const myArray7 = [["John", 23], ["cat", 2]];
 const removedFromMyArray=myArray7.pop()
 
 console.log(myArray7);
+
+
+
+const myArray8 = [["John", 23], ["dog", 3]];
+
+// Only change code below this line
+myArray.shift();
+
+const removedFromMyArray2=["John", 23];
+console.log(removedFromMyArray2);
