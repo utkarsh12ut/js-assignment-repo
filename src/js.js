@@ -115,7 +115,7 @@ const myName = "utkarsh";
 const myStr = "my name is "+myName+" and I am well!";
 console.log(myStr);
 
-
+/*
 
 let lastNameLength = 0;
 const lastName = "Lovelace";
@@ -123,3 +123,11 @@ const lastName = "Lovelace";
 
 lastNameLength = lastName.length;
 console.log(lastNameLength);
+
+*/
+let firstLetterOfLastName = "";
+const lastName = "Lovelace";
+
+
+firstLetterOfLastName = lastName[0];
+console.log(firstLetterOfLastName);
