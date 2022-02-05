@@ -184,3 +184,15 @@ const myArray4 = [18, 64, 99];
 myArray4[0]=45;
 
 console.log(myArray4);
+
+
+const myArray5 = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9],
+    [[10, 11, 12], 13, 14],
+  ];
+  
+  const myData2 = myArray5[2][1];
+
+  console.log(myData2);
