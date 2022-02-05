@@ -168,3 +168,7 @@ console.log(wordBlanks);
 
 const myArray = ["hi",2];
 console.log(myArray);
+
+
+const myArray2 = [[23,45],[77,88]];
+console.log(myArray2);
