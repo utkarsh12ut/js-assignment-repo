@@ -156,3 +156,12 @@ const lastName2 = "Lovelace";
 // Only change code below this line
 const secondToLastLetterOfLastName2 = lastName2[lastName2.length-2]; // Change this line
 console.log(secondToLastLetterOfLastName2);
+
+
+const myNoun = "dog";
+const myAdjective = "big";
+const myVerb = "ran";
+const myAdverb = "quickly";
+
+const wordBlanks = myNoun+" "+myAdjective+" "+myVerb+" "+myAdverb; 
+console.log(wordBlanks);
