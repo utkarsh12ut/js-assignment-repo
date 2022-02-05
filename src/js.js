@@ -369,5 +369,17 @@ function nextInLine(arr, item) {
   
     // Only change code above this line
   
+
   }
+
+
+
+  function testEqual(val) {
+    if (12==val) { // Change this line
+      return "Equal";
+    }
+    return "Not Equal";
+  }
+  
+  testEqual(10);
         
