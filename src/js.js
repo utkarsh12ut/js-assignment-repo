@@ -69,3 +69,5 @@ console.log(quotient)
 
  const product = 2.5 * 2.0;
  console.log(product);
+
+ const quotient = 4.4 / 2.0;
