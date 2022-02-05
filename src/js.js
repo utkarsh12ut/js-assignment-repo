@@ -134,3 +134,11 @@ console.log(firstLetterOfLastName);
 
 let myStr = "Jello World";
 myStr="Hello World";
+
+
+const lastName = "Lovelace";
+
+
+const thirdLetterOfLastName = lastName[2]; 
+
+console.log(thirdLetterOfLastName);
